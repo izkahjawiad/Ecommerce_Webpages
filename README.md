@@ -1,7 +1,15 @@
-# basic_ecommerce_pages
+# Basic Ecommerce Webpage
 
-A new Flutter project.
+Some Examples of Ecommerce Webpages,
+![Readme](https://user-images.githubusercontent.com/57311666/120704327-50bc6200-c46b-11eb-85ff-e0d370d63a95.png)
 
+Here is a Demo of how it works,
+
+https://user-images.githubusercontent.com/57311666/120709021-308fa180-c471-11eb-88cd-2e46bb2730be.mp4
+
+Enjoy :)
+
+    
 ## Getting Started
 
 This project is a starting point for a Flutter application.
